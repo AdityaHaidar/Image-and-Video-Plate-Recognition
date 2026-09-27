@@ -1,0 +1,12 @@
+ultralytics
+easyocr
+streamlit
+opencv-python
+pillow
+
+# dibutuhkan oleh tab Video (pipeline/tracker.py -> sort/sort.py)
+scipy
+filterpy
+lap
+matplotlib
+scikit-image

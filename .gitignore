@@ -1,0 +1,14 @@
+# Python & Virtual Environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Model Bobot (Opsional: Jika file .pt terlalu besar untuk GitHub)
+# models/*.pt
+# Kecuali jika Anda ingin tetap melacak .gitkeep saja di folder models
