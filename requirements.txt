@@ -1,7 +1,7 @@
 ultralytics
 easyocr
 streamlit
-opencv-python
+opencv-python-headless
 pillow
 
 # dibutuhkan oleh tab Video (pipeline/tracker.py -> sort/sort.py)
